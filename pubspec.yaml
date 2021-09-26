@@ -1,0 +1,36 @@
+name: agendamento_covid19
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  get: ^4.3.4
+  easy_mask: ^2.0.1
+  sqflite: ^2.0.0+4
+  infinite_listview: ^1.1.0
+  path_provider: ^2.0.5
+  dartz: 0.10.0-nullsafety.2
+  http: ^0.13.3
+  table_calendar: ^3.0.2
+  crypto: ^3.0.1
+  
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
