@@ -1,4 +1,4 @@
-import 'package:agendamento_covid19/customs/result_dialogs.dart';
+import 'package:agendamento_covid19/widgets/result_dialogs.dart';
 import 'package:agendamento_covid19/databases/custom_database.dart';
 import 'package:agendamento_covid19/failures/failure.dart';
 import 'package:agendamento_covid19/models/schedule.dart';

@@ -1,6 +1,6 @@
 import 'package:agendamento_covid19/controllers/home_controller.dart';
-import 'package:agendamento_covid19/customs/result_dialogs.dart';
-import 'package:agendamento_covid19/customs/schedule_displayer.dart';
+import 'package:agendamento_covid19/widgets/result_dialogs.dart';
+import 'package:agendamento_covid19/widgets/schedule_displayer.dart';
 import 'package:agendamento_covid19/databases/custom_database.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

@@ -1,5 +1,5 @@
 import 'package:agendamento_covid19/controllers/sign_up_controller.dart';
-import 'package:agendamento_covid19/customs/radio_icon_button.dart';
+import 'package:agendamento_covid19/widgets/radio_icon_button.dart';
 import 'package:agendamento_covid19/controllers/validators.dart';
 import 'package:easy_mask/easy_mask.dart';
 import 'package:flutter/material.dart';

@@ -1,8 +1,6 @@
-import 'dart:async';
-
 import 'package:agendamento_covid19/controllers/schedule_controller.dart';
 import 'package:agendamento_covid19/controllers/validators.dart';
-import 'package:agendamento_covid19/customs/result_dialogs.dart';
+import 'package:agendamento_covid19/widgets/result_dialogs.dart';
 import 'package:easy_mask/easy_mask.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -10,6 +8,7 @@ import 'package:infinite_listview/infinite_listview.dart';
 
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'dart:async';
 
 import 'package:table_calendar/table_calendar.dart';
 
